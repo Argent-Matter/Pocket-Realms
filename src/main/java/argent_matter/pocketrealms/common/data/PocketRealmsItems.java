@@ -38,6 +38,11 @@ public class PocketRealmsItems {
             .properties(p -> p.stacksTo(1))
             .register();
 
+    public static final ItemEntry<RoomExpansionItem> ROOM_EXPANSION_TIER_6 = REGISTRATE
+            .item("room_expansion_tier_6", p -> new RoomExpansionItem(p, 15))  // Expands to 15x15x15
+            .properties(p -> p.stacksTo(1))
+            .register();
+
 
     public static void init() {
     }
