@@ -1,0 +1,30 @@
+{
+  "commands.roomteleport.invalid_room_id": "Érvénytelen szobaazonosító formátum!",
+  "commands.roomteleport.pocketrealm_not_found": "A Pocket Realm dimenzió nem található!",
+  "commands.roomteleport.room_not_found": "A(z) %s azonosítójú szoba nem található!",
+  "commands.roomteleport.success": "Sikeres teleportálás a(z) %s azonosítójú szobába.",
+
+  "message.pocketrealms.room_not_found": "Szoba nem található!",
+  "message.pocketrealms.room_already_expanded": "A szoba már elérte vagy meghaladta ezt a méretet.",
+  "message.pocketrealms.room_expanded": "A szoba kibővítve erre a méretre: %s",
+  "message.pocketrealms.no_room_key": "Nincs kulcs ehhez a szobához.",
+  "message.pocketrealms.no_room_id": "A kulcshoz nincs hozzárendelve szobaazonosító!",
+
+  "message.pocketrealms.no_overworld_position": "Nem található a kulcshoz tartozó Overworld pozíció.",
+
+  "item.pocketrealms.room_key.room_id": "Szobaazonosító: %s",
+  "item.pocketrealms.room_key.no_room_id": "Nincs hozzárendelt szobaazonosító",
+  "item.pocketrealms.room_key.owner": "Tulajdonos: %s",
+  "item.pocketrealms.room_key.room_size": "Szoba mérete: %dx%dx%d",
+
+  "tooltip.pocketrealms.room_expansion_tier": "Bővítési szint: %s",
+
+  "block.pocketrealms.pocket_wall": "Pocket Fal",
+
+  "item.pocketrealms.room_key": "Szobakulcs",
+  "item.pocketrealms.room_expansion_tier_1": "Szobabővítés 1. szint",
+  "item.pocketrealms.room_expansion_tier_2": "Szobabővítés 2. szint",
+  "item.pocketrealms.room_expansion_tier_3": "Szobabővítés 3. szint",
+  "item.pocketrealms.room_expansion_tier_4": "Szobabővítés 4. szint",
+  "item.pocketrealms.room_expansion_tier_5": "Szobabővítés 5. szint"
+}
